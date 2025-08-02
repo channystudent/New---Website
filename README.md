@@ -79,9 +79,7 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
 ## 👥 Contributors
-<a href="https://github.com/your-username">
-  <img src="channy.jpg" width="80" />
-</a>
+![@channystudent](https://contrib.rocks/image?repo=channystudent/New---Website)
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
