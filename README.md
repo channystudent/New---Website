@@ -80,7 +80,7 @@ npm test        # Run test cases
 ```
 ## 👥 Contributors
 <a href="https://github.com/your-username">
-  <img src="rady.jpg" width="50" style="border-radius: 50%; box-shadow: 0 0 5px rgba(0,0,0,0.3);"/>
+  <img src="channy.jpg" width="50" style=" border-radius: 50%; box-shadow: 0 0 5px rgba(0,0,0,0.3);"/>
 </a>
 
 ## 📄 License
