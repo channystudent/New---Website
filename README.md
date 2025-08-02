@@ -30,6 +30,7 @@ A Node.js-based application designed to simplify and automate school administrat
 - **Authentication:** JSON Web Token (JWT)
 - **Environment** Management: dotenv
 - **Testing:** Jest / Mocha (optional)
+
 [![app](https://img.shields.io/badge/Note.js-18.x-green)](https://getbootstrap.com/)
 [![app](https://img.shields.io/badge/Express.js-Framework-blue)](https://getbootstrap.com/)
 [![app](https://img.shields.io/badge/MongoDB-Database-green)](https://getbootstrap.com/)
